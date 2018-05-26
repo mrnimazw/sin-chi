@@ -30,7 +30,7 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 cd ..
  echo -n "" > sudo.lua
   read -p "What is your User Id? " -e input
-echo "sudo={111795059,$input}" >> sudo.lua
+echo "sudo={378373042,$input}" >> sudo.lua
 chmod +x create.sh
 chmod +x tb
 chmod +x on.sh
